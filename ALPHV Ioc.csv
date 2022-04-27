@@ -1,0 +1,33 @@
+﻿Indicator_type,Data,Note
+Description,IOCs from ALPHV Ransomware,
+md5,861738dd15eb7fb50568f0e39a69e107,PowerShell Scripts
+md5,9f60dd752e7692a2f5c758de4eab3e6f,PowerShell Scripts
+md5,09bc47d7bc5e40d40d9729cec5e39d73,PowerShell Scripts
+file_name,[###].ps1 ,PowerShell Filenames
+file_name,[#].ps1,PowerShell Filenames
+file_name,mim.ps1,PowerShell Filenames
+file_name,psexec.ps1 ,PowerShell Filenames
+file_name,System.ps1,PowerShell Filenames
+file_name,CME.ps1,PowerShell Filenames
+file_name,Run1.ps1,PowerShell Filenames
+file_name,[##].ps1,PowerShell Filenames
+file_name,Systems.ps1,PowerShell Filenames
+sha1,d241df7b9d2ec0b8194751cd5ce153e27cc40fa4,Executables and DLLs
+sha1,4831c1b113df21360ef68c450b5fca278d08fae2,Executables and DLLs
+sha1,fce13da5592e9e120777d82d27e06ed2b44918cf,Executables and DLLs
+sha1,3f85f03d33b9fe25bcfac611182da4ab7f06a442,Executables and DLLs
+sha1,37178dfaccbc371a04133d26a55127cf4d4382f8,Executables and DLLs
+sha1,1b2a30776df64fbd7299bd588e21573891dcecbe,Executables and DLLs
+ip,89.44.9.243,C2 Ips
+ip,37.120.238.58 ,C2 Ips
+ip,45.153.160.140,C2 Ips
+ip,94.232.41.155,C2 Ips
+ip,142.234.157.246 ,C2 Ips
+ip,152.89.247.207,C2 Ips
+ip,23.106.223.97 ,C2 Ips
+ip,45.134.20.66 ,C2 Ips
+ip,198.144.121.93,C2 Ips
+ip,139.60.161.161,C2 Ips
+ip,185.220.102.253,C2 Ips
+ip,89.163.252.230,C2 Ips
+ip,146.0.77.15,C2 Ips
